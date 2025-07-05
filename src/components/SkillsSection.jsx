@@ -16,6 +16,12 @@ const skills = [
   { name: "MySQL", level: 70, category: "backend" },
   { name: "PostgreSQL", level: 90, category: "backend" },
   { name: "Hibernate", level: 60, category: "backend" },
+  { name: "Microservices", level: 70, category: "backend" },
+  { name: "CI/CD", level: 75, category: "backend" },
+  { name: "Apache Kafka", level: 75, category: "backend" },
+
+
+
 
   // Tools
   { name: "Git/GitHub", level: 90, category: "tools" },
@@ -23,6 +29,7 @@ const skills = [
   { name: "IntelliJ", level: 95, category: "tools" },
   { name: "VS Code", level: 95, category: "tools" },
   { name: "Render and Netlify", level: 95, category: "tools" },
+  { name: "Kubernetes", level: 75, category: "tools" },
 ];
 
 const categories = ["all", "frontend", "backend", "tools"];
