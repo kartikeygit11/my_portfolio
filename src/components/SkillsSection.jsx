@@ -18,7 +18,9 @@ const skills = [
   { name: "Hibernate", level: 60, category: "backend" },
   { name: "Microservices", level: 70, category: "backend" },
   { name: "CI/CD", level: 75, category: "backend" },
-  { name: "Apache Kafka", level: 75, category: "backend" },
+  { name: "REST Api", level: 95, category: "backend" },
+  
+
 
 
 

@@ -61,7 +61,7 @@ export default function CertificationsSection() {
           <div className="relative max-w-4xl w-full p-4">
             <button
               onClick={closeModal}
-              className="absolute top-2 right-4 text-black text-4xl font-bold hover:text-purple-400"
+              className="absolute top-2 right-4 text-red-600 text-4xl font-bold hover:text-purple-400"
             >
               &times;
             </button>
